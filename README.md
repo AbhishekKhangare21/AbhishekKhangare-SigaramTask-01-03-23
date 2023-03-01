@@ -1,4 +1,7 @@
 Deployed Project Link: https://abhishekkhangare-sigaramtask-01-03-23.netlify.app/
+
+![Screenshot (260)](https://user-images.githubusercontent.com/113746515/222220091-878e15e8-72e8-4818-9303-ec5fd75598f9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
